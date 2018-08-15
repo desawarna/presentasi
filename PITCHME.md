@@ -3,6 +3,18 @@
 
 ### A GitPitch Presentation Template
 
+--- 
+
+# GitPitch Pro
+
+#### The Markdown Presentation Service on Git
+
+Note:
+
+- Offers a wide-range of enhanced presentation **tools** and **features**
+- Both on the desktop and in the cloud
+- Learn more on the GitPitch website at https://gitpitch.com
+
 ---?image=assets/image/gitpitch-audience.jpg&opacity=100
 
 ## Tips!
